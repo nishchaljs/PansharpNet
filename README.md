@@ -5,7 +5,8 @@ panchromatic and multispectral images to learn and predict
 results. Since the satellite images have high spatial resolution,
 they are broken down into smaller chunks and built back once
 the desired features are extracted and fused. The pansharpened
-images can then be used to carry out the segmentation tasks
+images can then be used to carry out the segmentation tasks  
+Find the paper: <a>https://ieeexplore.ieee.org/document/9544725</a>
 
 ## Model
 
