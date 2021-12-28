@@ -27,5 +27,6 @@ Fig: Proposed PansharpNet for pansharpening of multispectral images.
 
 #### Detailed results can be found in the [RVCE_ISRO_Paper](RVCE_ISRO_Paper.pdf)
 
-## Citation
+## Citation  
+J. Nishchal, S. Reddy, N. Navya Priya, V. R. Jenni, R. Hebbar and B. S. Babu, "Pansharpening and Semantic Segmentation of Satellite Imagery," 2021 Asian Conference on Innovation in Technology (ASIANCON), 2021, pp. 1-9, doi: 10.1109/ASIANCON51346.2021.9544725.
    
